@@ -66,4 +66,3 @@ Usando MinGW-w64:
 gcc -o firewall.exe firewall.c -I"C:\Program Files (x86)\Windows Kits\10\Include\<versao>\um" -L"C:\Program Files (x86)\Windows Kits\10\Lib\<versao>\um\x64" -lFwpuclnt
 ```
 Após a compilação, basta executar o executável para bloquear um IP específico.
-
