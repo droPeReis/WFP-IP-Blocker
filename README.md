@@ -67,5 +67,3 @@ gcc -o firewall.exe firewall.c -I"C:\Program Files (x86)\Windows Kits\10\Include
 ```
 Após a compilação, basta executar o executável para bloquear um IP específico.
 
-
-
